@@ -1,0 +1,8 @@
+{
+"name": "AgriMacs",
+"version": "1.0",
+"starter": "agri-webapp",
+"dependencies": {
+"agri-webapp": "0.0.1"
+}
+}
